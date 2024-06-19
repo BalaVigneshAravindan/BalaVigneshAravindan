@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Accounting Analytics 
 - 🌱 I’m currently learning ...R and Python
 - 💞️ I’m looking to collaborate on ...Financial Institutions and companies
-- 📫 How to reach me ...baluutty28071998@gmail.com
+- 📫 How to reach me ...balukutty28071998@gmail.com
 
 
 <!---
